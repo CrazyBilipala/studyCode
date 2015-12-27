@@ -1,1 +1,2 @@
-it is a git store
+it's a git store.
+hahaha
